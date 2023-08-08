@@ -1,0 +1,80 @@
+.center-screen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+h5{
+    font-size: 25px;
+    font-family: 'REM', sans-serif;
+}
+
+p{
+    font-weight: lighter;
+    font-size: 14px;
+}
+small{
+    font-weight: bold;
+    font-size: 14px;
+}
+.input-grou{
+    margin-top: 25px;
+}
+
+.btn{
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+.DefaultMSG{
+    margin-top: 45px;
+    font-size: 18px;
+    font-family: 'REM', sans-serif;
+    margin-bottom: 45px;
+}
+
+.alert{
+    cursor: pointer;
+}
+
+.completed-task {
+    text-decoration: line-through;
+}
+
+.card{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+footer{
+    margin-top: 30px;
+
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.fade-in {
+    animation: fadeIn 1s ease-out;
+}
+
+.Coders{
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+.dinamicBackground{
+ background: rgb(223, 223, 223);
+}
+
