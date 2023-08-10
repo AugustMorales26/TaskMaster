@@ -14,8 +14,6 @@
 ## Contribución
 Si deseas contribuir a este proyecto, te invitamos a enviar pull requests. También puedes abrir un issue para discutir ideas o problemas relacionados con el proyecto.
 
-## 💻 Demo ##
-Para ver una demostración en vivo, vaya a - [http://codedemos.com/ember_tasks](http://www.codedemos.com/ember_tasks)
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT.
